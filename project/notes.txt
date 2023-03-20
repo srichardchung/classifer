@@ -1,0 +1,4 @@
+Main script in classifier.py, featuredetector.py is demo/visualization of matching process
+
+Should be very scalable, the only thing that needs to be done to add a class is adding a clean source image to
+the ImagesQuery folder, script can take care of the rest.
